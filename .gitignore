@@ -1,0 +1,12 @@
+# Bang
+*.refl.h    # Preprocessor
+
+# C++
+*.a
+*.o
+*.so
+*.obj
+*.exe
+
+# Misc
+*.user
